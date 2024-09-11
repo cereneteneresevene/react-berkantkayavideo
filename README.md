@@ -1,3 +1,5 @@
+# Öğrendiklerim
+react nedir, jsx nedir, proje kurulumu nasıl yapılır, app.js içinde projeyi çalıştırma ve mantığını anlama, component mantığı, props kavramı ve örneklemeler, map kavramı, hooks kullanımları (useState, useEffect, useRef, useMemo) , npm paketleri/ amaçları, sayfalar arası geçiş(react-router-dom), genel structure yapıları, redux mantığı-kurulumu ,todo app ve fetch data uygulamaları
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
